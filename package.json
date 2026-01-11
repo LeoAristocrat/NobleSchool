@@ -1,0 +1,23 @@
+{
+  "name": "noble-institute-education",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "latest",
+    "lenis": "^1.3.17",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-intersection-observer": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^5.4.21"
+  }
+}
